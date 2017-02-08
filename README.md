@@ -9,4 +9,5 @@ This repository contains data about declarations made by donors to Australian po
 -	Investment vehicles were categorised as "finance/insurance" where it was possible to identify their main activity and investment companies with a major interest in a particular industry, for example, property, were categorised in the relevant industry.
 -	Individuals donating under their own names were included in the "individuals" category, although some have interests in specific industries.
 -	It was not possible to categorise all company donors. For some, there is little information publicly available. These are marked as 'uncategorised'.
+-	ABC News [published a story using this data](http://www.abc.net.au/news/2017-02-09/political-donations-industry-dataset/8229192).
 -	It was originally scraped from the Australian Electoral Commission's website on February 1, 2017 using [a scraper](https://github.com/drzax/AEC-scraper-donations-declared-by-donors) originally written by [Nick Evershed](https://github.com/nickjevershed).
