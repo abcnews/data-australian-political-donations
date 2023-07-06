@@ -22,7 +22,7 @@ python-dateutil==2.6.0
 pytz==2016.10
 requests==2.20.0
 rfc3986==0.4.1
-scipy==0.18.1
+scipy==1.10.0
 seaborn==0.7.1
 six==1.10.0
 statsmodels==0.6.1
